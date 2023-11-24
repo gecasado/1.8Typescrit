@@ -1,4 +1,4 @@
-import { Book } from "./bookook";
+import { Book } from "./book";
 
 export class Library{
     private books: Book[];
